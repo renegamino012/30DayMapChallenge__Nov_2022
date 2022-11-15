@@ -17,4 +17,4 @@ Ian Usher's [LinkedIn post](https://www.linkedin.com/posts/ian-usher-16591b3b_30
 * Polygon to Raster
 * Select
 
-![Accessible to Natural Greenspace in Los Angeles!](/assets/images/san-juan-mountains.jpg "Accessible to Natural Greenspace in Los Angeles")
+![Accessible to Natural Greenspace in Los Angeles!](https://github.com/renegamino012/30DayMapChallenge__Nov_2022/blob/main/05__colors_friday_green/05__colors_friday_green.png?raw=true "Accessible to Natural Greenspace in Los Angeles")
