@@ -13,6 +13,14 @@ Last year, my mentor recommended opting for simple datasets and ArcGIS Online fo
 
 Please, visit the [ArcGIS Online Web Map](https://arcg.is/XejLv) to explore and interact with the points.
 
+## Day 02 (Lines)
+I was interested by the several minimalist maps, displaying infrastructure, boundaries, and natural resources. 
+
+### Resources
+* [Streets (Centerline)](https://geohub.lacity.org/datasets/d3cd48afaacd4913b923fd98c6591276_36/about)
+
+![Streets in City of Los Angeles, Centerline](/02__lines/02__lines.png?raw=true "Streets in City of Los Angeles, Centerline")
+
 ## Day 05 (Color Friday: Green)
 Ian Usher's [LinkedIn post](https://www.linkedin.com/posts/ian-usher-16591b3b_30daymapchallenge-naturalengland-gis-activity-6994232031282888704-7bk2?utm_source=share&utm_medium=member_desktop) influenced this visualization, especially for their focus on the Access to Natural Greenspace Standards (ANGSt). However, I chose the City of Los Angeles as the location of interest because of its personal relevance. 
 
